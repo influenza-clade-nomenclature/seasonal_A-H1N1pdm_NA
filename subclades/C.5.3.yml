@@ -1,0 +1,12 @@
+name: C.5.3
+unaliased_name: A.1.1.1.3.2.5.3
+parent: C.5
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 199
+  state: N
+- locus: nuc
+  position: 1090
+  state: G
+clade: none

@@ -1,0 +1,15 @@
+name: B.3
+unaliased_name: A.1.1.1.3
+parent: B
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 221
+  state: K
+- locus: NA
+  position: 65
+  state: F
+- locus: NA
+  position: 18
+  state: T
+clade: none

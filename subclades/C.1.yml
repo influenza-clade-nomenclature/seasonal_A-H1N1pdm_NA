@@ -4,9 +4,9 @@ parent: C
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 263
+  position: 264
   state: T
 - locus: nuc
-  position: 880
+  position: 881
   state: A
 clade: none

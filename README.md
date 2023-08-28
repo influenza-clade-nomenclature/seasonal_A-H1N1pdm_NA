@@ -1,6 +1,6 @@
-# Clade and subclade nomenclature for the NA segment of seasonal A/H3N2 influenza viruses
+# Clade and subclade nomenclature for the NA segment of seasonal A/H1N1pdm influenza viruses
 
-This repository defines subclades of the neuradminidase segment of seasonal A/H3N2 influenza viruses.
+This repository defines subclades of the neuradminidase segment of seasonal A/H1N1pdm influenza viruses.
 These designations are called subclades in analogy to the HA segment, even though no corresponding clade nomenclature exists for NA.
 These subclades don't necessarily correspond to groups of viruses with distinct phenotypes but are meant to facilitate discussion of viral genetic diversity and to capture the frequency dynamics of co-circulating viral variants that often don't have distinct properties.
 
@@ -10,19 +10,18 @@ These subclades don't necessarily correspond to groups of viruses with distinct 
 Each subclade is defined by a machine readable `yaml` file in the subdirectory `subclades`.
 The yaml-files have the following structure:
 ```
-name: B.1
-unaliased_name: A.2.2.3.1
-parent: B
+name: C.5.1
+unaliased_name: A.1.1.1.3.2.5.1
+parent: C.5
 representatives: []
 defining_mutations:
-- locus: nuc
-  position: 674
-  state: A
 - locus: NA
-  position: 61
-  state: M
+  position: 49
+  state: D
+- locus: nuc
+  position: 1312
+  state: G
 clade: none
-
 ```
 The field `clade` is set to `none` for all `NA` clades, but kept in case such a nomenclature is added.
 
@@ -49,7 +48,7 @@ Parameters and mutation weights for the automated subclade suggestion algorithm 
 After adding new clades, run the following commands to update the files generated from the individual yamls.
 ```
 # generate the markdown summary of the clade definitions
-python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage h3n2 --segment na
+python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage h1n1pdm --segment na
 
 # generate the tsv file with clade-defining info that can be used to annotate clades in augur
 python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .auto-generated/subclades.tsv

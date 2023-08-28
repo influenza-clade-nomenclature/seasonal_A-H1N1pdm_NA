@@ -25,7 +25,7 @@ clade: none
 ```
 The field `clade` is set to `none` for all `NA` clades, but kept in case such a nomenclature is added.
 
-The defining mutations are relative using nucleotide and HA coordinates defined in
+The defining mutations are relative using nucleotide and NA coordinates defined in
 ```
 ##gff-version 3
 ##sequence-region CY121682.1 1 1432

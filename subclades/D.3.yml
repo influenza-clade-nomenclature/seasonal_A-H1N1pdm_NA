@@ -1,0 +1,12 @@
+name: D.3
+unaliased_name: A.1.1.1.3.2.5.3.3
+parent: D
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 73
+  state: S
+- locus: nuc
+  position: 539
+  state: T
+clade: none

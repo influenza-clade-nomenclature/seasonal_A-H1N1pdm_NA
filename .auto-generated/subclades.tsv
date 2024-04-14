@@ -66,10 +66,8 @@ D	NA	105	S
 D.1	clade	D	
 D.1	NA	264	T
 D.2	clade	D	
-D.2	NA	458	S
+D.2	NA	73	S
+D.2	nuc	539	T
 D.3	clade	D	
-D.3	NA	73	S
-D.3	nuc	539	T
-D.4	clade	D	
-D.4	NA	223	V
-D.4	NA	366	N
+D.3	NA	223	V
+D.3	NA	366	N

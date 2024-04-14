@@ -111,16 +111,11 @@
 
 ## D.2
  * parent: [D](#D)
- * defining mutations or substitutions: NA:458S
+ * defining mutations or substitutions: NA:73S, nuc:539T
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.2)
 
 ## D.3
  * parent: [D](#D)
- * defining mutations or substitutions: NA:73S, nuc:539T
- * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.3)
-
-## D.4
- * parent: [D](#D)
  * defining mutations or substitutions: NA:223V, NA:366N
- * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.4)
+ * [View on Nextstrain](https://nextstrain.org/flu/seasonal/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.3)
 

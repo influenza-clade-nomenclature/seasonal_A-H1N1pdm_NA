@@ -1,4 +1,4 @@
-name: C.5.3
+name: D
 unaliased_name: A.1.1.1.3.2.5.3
 parent: C.5
 representatives: []
@@ -6,7 +6,7 @@ defining_mutations:
 - locus: NA
   position: 200
   state: N
-- locus: nuc
-  position: 1091
-  state: G
+- locus: NA
+  position: 105
+  state: S
 clade: none

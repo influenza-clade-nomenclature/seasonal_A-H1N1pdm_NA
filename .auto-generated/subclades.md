@@ -104,11 +104,6 @@
  * defining mutations or substitutions: NA:200N, NA:105S
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.3)
 
-## C.5.3.1
- * parent: [C.5.3](#C53)
- * defining mutations or substitutions: NA:264T
- * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.3.1)
-
 ## C.5.3.2
  * parent: [C.5.3](#C53)
  * defining mutations or substitutions: NA:73S, nuc:539T
@@ -118,4 +113,21 @@
  * parent: [C.5.3](#C53)
  * defining mutations or substitutions: NA:223V, NA:366N
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.3.3)
+
+## D
+ * parent: [C.5.3](#C53)
+ * defining mutations or substitutions: NA:264T
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D)
+
+## D.1
+ * parent: [D](#D)
+ * defining mutations or substitutions: NA:98V, nuc:301T, nuc:1304G
+ * representative sequence: A/Missouri/11/2025 (EPI4043934) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?c=subclade&s=A/Missouri/11/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.1)
+
+## D.2
+ * parent: [D](#D)
+ * defining mutations or substitutions: NA:52N, nuc:163A
+ * representative sequence: A/India/956/2024 (EPI3518550) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?c=subclade&s=A/India/956/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.2)
 

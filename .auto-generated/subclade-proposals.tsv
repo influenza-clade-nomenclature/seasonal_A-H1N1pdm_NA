@@ -63,11 +63,18 @@ C.5.2	nuc	1313	G
 C.5.3	clade	C.5	
 C.5.3	NA	200	N
 C.5.3	NA	105	S
-C.5.3.1	clade	C.5.3	
-C.5.3.1	NA	264	T
 C.5.3.2	clade	C.5.3	
 C.5.3.2	NA	73	S
 C.5.3.2	nuc	539	T
 C.5.3.3	clade	C.5.3	
 C.5.3.3	NA	223	V
 C.5.3.3	NA	366	N
+D	clade	C.5.3	
+D	NA	264	T
+D.1	clade	D	
+D.1	NA	98	V
+D.1	nuc	1208	G
+D.1	nuc	1304	G
+D.2	clade	D	
+D.2	NA	52	N
+D.2	nuc	1016	C

@@ -10,6 +10,6 @@ defining_mutations:
   position: 52
   state: N
 - locus: nuc
-  position: 163
-  state: A
+  position: 1016
+  state: C
 clade: none

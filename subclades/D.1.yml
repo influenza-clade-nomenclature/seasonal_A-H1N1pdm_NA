@@ -10,8 +10,8 @@ defining_mutations:
   position: 98
   state: V
 - locus: nuc
-  position: 301
-  state: T
+  position: 1208
+  state: G
 - locus: nuc
   position: 1304
   state: G

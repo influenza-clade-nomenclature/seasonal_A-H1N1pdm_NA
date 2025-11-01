@@ -1,3 +1,6 @@
+# 2025-11-01
+- add aliases to ymls
+
 # 2025-07-30: clade update
 
  - alias subclade C.5.3.1 as [D](https://github.com/influenza-clade-nomenclature/seasonal_A-H1N1pdm_NA/blob/c7e0512eaf79c474915edb1004cf13244778b584/subclades/D.yml)

@@ -15,6 +15,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1.1)
 
 ## B
+ * alias of: A.1.1.1
  * parent: [A.1.1](#A11)
  * defining mutations or substitutions: NA:51K, NA:74S, NA:452I
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B)
@@ -55,6 +56,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.3.1.2)
 
 ## C
+ * alias of: B.3.2
  * parent: [B.3](#B3)
  * defining mutations or substitutions: NA:453M, nuc:452A, nuc:785G
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C)
@@ -115,6 +117,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.3.3)
 
 ## D
+ * alias of: C.5.3.1
  * parent: [C.5.3](#C53)
  * defining mutations or substitutions: NA:264T
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D)

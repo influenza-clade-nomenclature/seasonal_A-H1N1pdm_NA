@@ -1,3 +1,6 @@
+# 2026-03-22
+- add D.3 subclade
+
 # 2025-11-01
 - add aliases to ymls
 

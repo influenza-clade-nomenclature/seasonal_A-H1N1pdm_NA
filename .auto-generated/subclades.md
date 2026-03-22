@@ -134,3 +134,11 @@
  * representative sequence: A/India/956/2024 (EPI3518550) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?c=subclade&s=A/India/956/2024)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.2)
 
+## D.3
+ * parent: [D](#D)
+ * defining mutations or substitutions: NA:93S, NA:314I
+ * representative sequences:
+   - A/Virginia/64/2025 ([PX938302](https://www.ncbi.nlm.nih.gov/nuccore/PX938302)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?c=subclade&s=A/Virginia/64/2025)
+   - A/Wisconsin/171/2025 ([PX938366](https://www.ncbi.nlm.nih.gov/nuccore/PX938366)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?c=subclade&s=A/Wisconsin/171/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/h1n1pdm/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:D.3)
+

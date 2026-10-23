@@ -75,6 +75,16 @@ D.1	clade	D
 D.1	NA	98	V
 D.1	nuc	1208	G
 D.1	nuc	1304	G
+D.1.1	clade	D.1	
+D.1.1	NA	51	T
+D.1.1	NA	396	T
+D.1.1	nuc	905	A
+D.1.1	nuc	160	C
+D.1.2	clade	D.1	
+D.1.2	NA	9	A
+D.1.2	NA	73	H
+D.1.2	nuc	33	G
+D.1.2	nuc	225	C
 D.2	clade	D	
 D.2	NA	52	N
 D.2	nuc	1016	C

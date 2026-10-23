@@ -1,0 +1,21 @@
+name: D.1.2
+unaliased_name: A.1.1.1.3.2.5.3.1.1.2
+parent: D.1
+representatives:
+- isolate: A/Quebec/LSPQ-376/2026
+  source: gisaid
+  accession: EPI5438949
+defining_mutations:
+- locus: NA
+  position: 9
+  state: A
+- locus: NA
+  position: 73
+  state: H
+- locus: nuc
+  position: 33
+  state: G
+- locus: nuc
+  position: 225
+  state: C
+clade: none

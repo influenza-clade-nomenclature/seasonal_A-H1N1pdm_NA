@@ -1,3 +1,7 @@
+# 2026-11-17
+
+add D.1.1, D.1.2, and D.2.1 subclades
+
 # 2026-03-22
 - add D.3 subclade
 

@@ -88,6 +88,10 @@ D.1.2	nuc	225	C
 D.2	clade	D	
 D.2	NA	52	N
 D.2	nuc	1016	C
+D.2.1	clade	D.2	
+D.2.1	NA	46	V
+D.2.1	NA	95	N
+D.2.1	NA	343	K
 D.3	clade	D	
 D.3	NA	93	S
 D.3	NA	314	I

@@ -11,9 +11,9 @@ representatives:
 - isolate: A/Wisconsin/NIRC-IS-1154/2026
   source: gisaid
   accession: EPI5719558
-- isolate: A/Albania/317901/2025
+- isolate: A/Tokyo/EIS14-800/2026
   source: gisaid
-  accession: EPI5209628
+  accession: EPI5383813
 defining_mutations:
 - locus: NA
   position: 46
